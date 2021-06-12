@@ -3,7 +3,7 @@ import Header from "./Header";
 
 const Home = () => {
   return (
-    <div class="ui container">
+    <div>
       <Header />
 
       <button class="ui small blue button">Hello</button>
